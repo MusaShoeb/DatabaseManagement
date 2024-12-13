@@ -1,0 +1,29 @@
+.Table1 {
+
+    display: flex;
+    flex-direction: column;
+    background-color: aqua;
+}
+
+.Table2 {
+
+    display: flex;
+    flex-direction: column;
+    background-color: orange;
+}
+
+.Table3 {
+    display: flex;
+    flex-direction: column;
+    background-color: red;
+}
+
+.background {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.Heading {
+    margin:20px;
+}
